@@ -16,6 +16,7 @@ public class GameList {
         this.id = id;
         this.name = name;
     }
+    public GameList(){}
 
     public Long getId() {
         return id;
